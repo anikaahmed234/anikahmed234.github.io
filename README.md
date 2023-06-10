@@ -1,5 +1,5 @@
 # My Portfolio Site (On process)
-https://anikaahmed234.github.io/anikahmed234.github.io/
+https://anikaahmed234.github.io/anikanayona.github.io/
 
 This is the repository for my personal portfolio site, which is hosted on GitHub Pages. The site showcases my skills, projects, and experience, and provides a way for potential clients and employers to learn more about me and my work.
 
