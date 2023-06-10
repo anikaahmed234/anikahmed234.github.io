@@ -51,7 +51,7 @@ position: relative;
    position: absolute;
    left: 0;
    bottom: 4px; ;
-   transition:.5s ;
+   transition:.2s ;
 }
 #site:hover::after{
     width: 100%;
@@ -66,7 +66,7 @@ justify-content: center;
 }
 nav ul li a:hover{
 color:rgb(245, 235, 235);
-transition: .3s;
+transition: .5s;
 }
 
 .content{
@@ -109,7 +109,7 @@ transition: .3s;
  }
  .head h1:hover:after{
     margin-left: 75px;
-     width: 33%;
+    width: 33%;
  }
  .card {
     width: 350px;
@@ -131,11 +131,13 @@ transition: .3s;
     border-radius: 40px;
     box-sizing: border-box;
  }
- .card :hover{
+ .card img:hover{
     transform: translateY(-10px);
+    transition: .5s;
  }
  .card h3{
     justify-content: center;
+    padding-top: 15px;
     align-items: center;
 
  }
